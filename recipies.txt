@@ -4,3 +4,5 @@ kheer.
 pasta
 hello
 how u doing
+beans 
+mushrooms
